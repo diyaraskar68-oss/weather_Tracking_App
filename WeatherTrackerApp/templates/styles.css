@@ -1,0 +1,17 @@
+button {
+    background-color: black;
+    border: none;
+    padding: 0px 0px;
+    border-radius: 0px;
+    size: 60px 60px;
+    cursor: pointer;
+}
+
+container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 180vh;
+    width: 180vw;
+}
